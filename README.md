@@ -32,6 +32,12 @@ Hopefully, the following list will help preserve this second tradition.
 
 ## Past JumboSmashes Teams
 
+**2015**: We thought it would be super fun to build a localized, college-seniors-only Tinder app for one week. And it succeeded beyond our most wishful fancy. Of a graduating class of around 1000, we had 500 active users for the week of operation. Very fun, very rewarding. We even know some long-term relationships that formed!
+- Backend: Django and Postgres
+- Frontend: Web, Backbone.js
+
+Team: Sam Purcell (Frontend), Tyler Lubeck (Backend)
+
 **2017**: We went really hard, arguably too hard but learned a ton as a result.  Our focus was to build a cross-platform app using Facebook's ReactNative.  At a high level, our stack was:
 - Backend: Firebase (image hosting, auth, chat) and Heroku (user information, most of the logic)
 - Frontend: Facebook's ReactNative (iOS and Android)
