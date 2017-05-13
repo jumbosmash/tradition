@@ -1,6 +1,6 @@
 # The JumboSmash Tradition
 
-*Written by [Richard](cwrichardkim@gmail.com) during JumboSmash 2017. This is really just a collection of suggestions to make the most out of this tradition. Feel free to modify it based on your experience (include change notes at the bottom)*
+*Written by [Richard](cwrichardkim@gmail.com) during JumboSmash 2017. This is really just a collection of suggestions to make the most out of this tradition. Feel free to modify it based on your experience*
 
 JumboSmash is two Tufts traditions smashed into one.  The first tradition is to enable seniors to connect with each other during Senior Week.  The second tradition is for students (traditionally CS) to make a thing entirely from scratch.
 
@@ -54,3 +54,4 @@ Team: [Richard Kim](cwrichardkim@gmail.com), [Elif Kinli](elifkinli@gmail.com), 
 
 ## Change Notes:
 - May 2, 2017: Richard Kim - wrote the thing with help from Yuki
+- May 13, 2017: 2015 and 2016 descriptions added
