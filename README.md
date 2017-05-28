@@ -38,19 +38,27 @@ Hopefully, the following list will help preserve this second tradition.
 
 Team: Sam Purcell (Frontend), Tyler Lubeck (Backend)
 
+---
+
 **2016**: Based off of the previous year's success with the app idea, our team decided to continue the JumboSmash tradition. After getting source code from Tyler and Sam and realizing that we wanted to build it in our own technologies this time around, we scrapped the old project. Reception was wholly positive with ~600 users and ~700,000 swipes in the week. Would highly recommend implementing a k-clique approximation in the future, we only got to enumerating all the 3-cliques. 
 - Backend: Golang, Python
 - Frontend: Ractive
 
 Team: [Teddy Cleveland](https://www.facebook.com/theodore.cleveland), [Todd Pollak](https://www.facebook.com/todd.pollak.7), and [Nikhil Shinday](https://www.facebook.com/nikhilshinday)
 
-**2017**: We went really hard, arguably too hard but learned a ton as a result.  Our focus was to build a cross-platform app using Facebook's ReactNative.  At a high level, our stack was:
+---
+
+**2017**: We went really hard, arguably too hard but learned a ton as a result. 900 users, 1m swipes in 24 hours, 5m total.  Our focus was to build a cross-platform app using Facebook's ReactNative.  At a high level, our stack was:
 - Backend: Firebase (image hosting, auth, chat) and Heroku (user information, most of the logic)
 - Frontend: Facebook's ReactNative (iOS and Android)
 - Static Website: ScrollMagic, Justin's sweat and tears, hosted on GitHub
 - Distribution / Beta testing: Fastlane
 
 Team: [Richard Kim](cwrichardkim@gmail.com), [Elif Kinli](elifkinli@gmail.com), [Jared Moskowitz](jaredmoskowitz123@gmail.com), and [Jade Chan](Jadeyychan@gmail.com) on mobile / backend; [Bruno Olmedo](bruno.olmq@gmail.com) and [Shanshan Duan](philia33d@gmail.com) on Design; [Justin Sullivan](justinnsullivan@gmail.com) on Web
+
+Images: [Screenshots](http://imgur.com/F4GhyPi.png), [Progress.gif](http://imgur.com/r4ve8kr.gif), [Overview](http://imgur.com/dtQnFx3.png), [Posters](http://imgur.com/71XBttD.png)
+
+---
 
 ## Change Notes:
 - May 2, 2017: Richard Kim - wrote the thing with help from Yuki
