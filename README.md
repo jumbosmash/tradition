@@ -54,7 +54,7 @@ Team: [Teddy Cleveland](https://www.facebook.com/theodore.cleveland), [Todd Poll
 - Static Website: ScrollMagic, Justin's sweat and tears, hosted on GitHub
 - Distribution / Beta testing: Fastlane
 
-Team: [Richard Kim](cwrichardkim@gmail.com), [Elif Kinli](elifkinli@gmail.com), [Jared Moskowitz](jaredmoskowitz123@gmail.com), and [Jade Chan](Jadeyychan@gmail.com) on mobile / backend; [Bruno Olmedo](bruno.olmq@gmail.com) and [Shanshan Duan](philia33d@gmail.com) on Design; [Justin Sullivan](justinnsullivan@gmail.com) on Web
+Team: [Richard Kim](mailto:cwrichardkim@gmail.com), [Elif Kinli](mailto:elifkinli@gmail.com), [Jared Moskowitz](mailto:jaredmoskowitz123@gmail.com), and [Jade Chan](mailto:Jadeyychan@gmail.com) on mobile / backend; [Bruno Olmedo](mailto:bruno.olmq@gmail.com) and [Shanshan Duan](mailto:philia33d@gmail.com) on Design; [Justin Sullivan](mailto:justinnsullivan@gmail.com) on Web
 
 Images: [Screenshots](http://imgur.com/F4GhyPi.png), [Progress.gif](http://imgur.com/r4ve8kr.gif), [Overview](http://imgur.com/dtQnFx3.png), [Posters](http://imgur.com/71XBttD.png)
 
@@ -63,3 +63,4 @@ Images: [Screenshots](http://imgur.com/F4GhyPi.png), [Progress.gif](http://imgur
 ## Change Notes:
 - May 2, 2017: Richard Kim - wrote the thing with help from Yuki
 - May 13, 2017: 2015 and 2016 descriptions added
+- Oct 10, 2017: Links to emails fixed
